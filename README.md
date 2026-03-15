@@ -49,7 +49,7 @@ The problem this report addresses is both historical and modern: **given a charg
   ![Charge separation diagram](images/figure1_charge_separation.png)
 ============================================================ -->
 
-"C:\Users\aburi\Downloads\ai-image-1.png"
+image_5.png
 ```
           ╔══════════════════════════════════════╗
           ║   + + + +  STORM CLOUD  + + + + +   ║  ← +Q (upper)

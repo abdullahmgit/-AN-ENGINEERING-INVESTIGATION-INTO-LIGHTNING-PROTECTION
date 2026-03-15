@@ -22,6 +22,8 @@ What Franklin understood intuitively, and what took another century to fully for
 
 The problem this report addresses is both historical and modern: **given a charged storm cloud hovering above a structure, how do we use the laws of electrostatics to design a system that intercepts a lightning strike and routes it safely to ground?**
 
+"C:\Users\aburi\Downloads\ai-image-1.png"
+
 ---
 
 <!-- ============================================================

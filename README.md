@@ -47,6 +47,7 @@ The problem this report addresses is both historical and modern: **given a charg
   ![Charge separation diagram](images/figure1_charge_separation.png)
 ============================================================ -->
 
+"C:\Users\aburi\Downloads\ai-image-1.png"
 ```
           ╔══════════════════════════════════════╗
           ║   + + + +  STORM CLOUD  + + + + +   ║  ← +Q (upper)
@@ -476,5 +477,5 @@ Each figure above has an **ASCII fallback diagram** that renders on GitHub immed
 ---
 
 *Prepared as part of ECE coursework — Electromagnetic Theory and Transmission Lines*
-*Unit I: Coulomb's Law and Gauss's Law | Academic Year 2025–26*https://crompt-media-s3-production.s3.amazonaws.com/image_generations/7b71f9a5-0f91-4aec-9249-12053a45fa01.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA5EIUHB5JNXUNIRZ7%2F20260315%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260315T004158Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRzBFAiEA0izyG7feJsl6L2mgR5qpydzfwyGZjtrgV3gUn9tWE0UCIDz3EcaEJ%2Fbyvh6Zaq9U52ivsI9qGV%2F4qHS%2BntKhYFBtKsgFCLL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMOTAyNTIyNDA4Nzg2Igy7tZGPjKSml2T%2F%2BnwqnAXK29qmKrRvgEFT35sPkoaqtBHF3%2FFzZ6RRjvxLuc9ZoeExhn7CJ3Q5Djck0YJAQmp1HBAiA2KkO7sTUzE0S9IR5I6xL7tQnzxw%2ByhKsNDGNtRUwKbB7ksOV%2Fg4dQHWfs2Dv%2FRon4l1Yvn4dB1eHsVAW9yp4%2B%2FBMU1vOPQo%2FP8u5YlPDTbN3Kz0hugmVVXRAn3nI225HZNnrQH7P%2F42ZP%2FwhalNmzYWc%2FmXuIVSOkMmzlXcBWv%2BR%2Fcq7Kh2UsYGiIjo6Q089GHfE6XRw%2FocmG84Z6V8JN9kETt7%2BfZj%2F%2BzoZz2sF5RaUiufAEuRcgtvhStd0ScHt9Z5szHk94cs2sj3jhkZWssAsys%2ByyMDmAdkGvnmV02jk%2BxAG8CtTvzNAn2gEzYqExM4u7%2FQTpudH%2FEbKIqVRdd2DVVzyQshwSKZ%2B8YsK0q9OpHpenihVYR3NwGVrBXHWfIDuttGCTLUrs0ThsWjClrxmmnrD9fGACrxrWtPx1MjALbPNorJpJNe%2FrmmnVRrSSJTG1R26GRrjgQ7z5%2FXUyieyASAysDyIHtvuOTQBcV4Co7T%2BoucrrEWQZR5%2F2Zc7pls%2Bfb8pVM3r5YOwXIEkA4rXAjSY2D%2B02botum1QJokbr2OQqZzO%2Fkq4r3bCwzSd%2F%2BzZsbE3UKPKhYflnAfR0dJWBPOOKte6%2FztGT3KdoHVL%2B4q2VanlCcrOCaMWuTOfBaC4NErvwuOSI9jXBisj2OQH19WQMqU2rcubA2qrvxItFHxlmZBwsVQBjjZqyNrgFmyZzTpAAqBONdhEpri6j%2BK3gwHQm3IhGkasrZrqQwR4L0e2eVQYNh9chbWoSGMX8lebGQqpuJYXIAZe3hmju6i90v15I6P8d1REW4p7EkjVCvsG5%2B4KjCm%2FtfNBjqxAVnHScZMPGk2pwkqt1xssEwGHQbCqTX9hUScMyvQ%2Fg3%2F1HDdshHp5%2Fpys%2F9DNZxob0oB9s5V8cRokQQDajQKbVKL02dkXTNEFO%2BZ%2FrX4ayWwa1gJIvAuG9JruvHA%2BtICjoz3TPCXlf6qpCFTNu8BcMWlclHQaCBlcqq3639oAIzAwKRSs2C6AJGe5ZkFK2AFL8EcQNxmbFJMvi7vhuMRAdjl25PacMEVJmCsqaLQqTCR%2Fg%3D%3D&X-Amz-Signature=689fc24ae84271146cec5b2380cbb084672c29a4686caff9db075c34b71e4661
+*Unit I: Coulomb's Law and Gauss's Law | Academic Year 2025–26
 
